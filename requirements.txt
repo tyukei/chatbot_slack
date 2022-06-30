@@ -17,7 +17,6 @@ attrs
 autopep8 
 Babel 
 backcall==0.2.0
-backports.functools-lru-cache k
 backports.shutil-get-terminal-size 
 backports.tempfile==1.0
 backports.weakref==1.0.post1
