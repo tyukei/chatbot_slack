@@ -1,5 +1,3 @@
-# 「API_TOKEN」にはSlackから取得したAPIトークンを記述してください
-# API_TOKEN = "xoxb-1628490250608-1617284188065-KqvywJjSJ66ydxjlIz6DHLOK"
 # ライブラリのインポート
 import os
 # 環境変数に定義しておく
